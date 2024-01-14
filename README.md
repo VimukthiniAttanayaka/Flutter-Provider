@@ -1,4 +1,6 @@
-# my_app
+# Flutter provider
+![Screenshot 2024-01-14 171206](https://github.com/VimukthiniAttanayaka/Flutter-Provider/assets/73266263/ba79532f-2960-4e2d-b36d-16b7af97d917)
+
 
 A new Flutter project.
 
