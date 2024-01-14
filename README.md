@@ -2,7 +2,7 @@
 
 A new Flutter project.
 ![Screenshot 2024-01-14 171206](https://github.com/VimukthiniAttanayaka/Flutter-Provider/assets/73266263/f7affae0-bf22-4827-8c0e-92d00fefffd6)
-![Screenshot 2024-01-14 171302](https://github.com/VimukthiniAttanayaka/Flutter-Provider/assets/73266263/e6b2e6c9-fe6e-4aba-9b25-47c9d9ffc1a2)
+![image](https://github.com/VimukthiniAttanayaka/Flutter-Provider/assets/73266263/6edbcf00-1ceb-4805-a00b-d6d597ce28d7)
 ![Screenshot 2024-01-14 171246](https://github.com/VimukthiniAttanayaka/Flutter-Provider/assets/73266263/e194e04e-9aeb-44d8-8108-d09e1cd104b7)
 
 ## Getting Started
